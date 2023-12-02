@@ -1,4 +1,4 @@
 base:
   '*':
-    - dev
-    - user
+    - app-conf
+    - ssh
